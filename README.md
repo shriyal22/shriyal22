@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shriyal22
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning CSS and JavaScript
-- 💞️ I’m looking to collaborate on a python project
+- 🌱 I’m currently learning React.Js
+- 💞️ I’m looking to collaborate on a python project or a web development project.
 - 📫 How to reach me email: shriyaltandon22@gmail.com
 
 <!---
