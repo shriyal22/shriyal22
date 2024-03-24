@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @shriyal22
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning React.Js
-- 💞️ I’m looking to collaborate on a python project or a web development project.
+- 👋 Hi, I’m Shriyal
 - 📫 How to reach me email: shriyaltandon22@gmail.com
 
 <!---
